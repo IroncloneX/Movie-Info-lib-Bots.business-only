@@ -48,6 +48,6 @@ Api.sendMessage({
 
 
 publish({
-  readInfo: read
-  searchInfo: movie
+ readInfo: read
+ searchInfo: movie
 })
